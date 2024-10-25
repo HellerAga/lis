@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8” ?>
+<actorprofile>
+<actor>
+<name type=“text”>Robert Downey, Jr.</name>
+<dob type=“date”>April 4, 1965</dob>
+<height type=“text”>5’9”</height>
+<films>
+<title type="text">The Avengers</title>
+<releaseyear type="text">2012</releaseyear>
+<role type="text" >Iron Man</role>
+<title type="text">Iron Man</title>
+<releaseyear type="date">2010</releaseyear>
+<role type="text" >Iron Man</role>
+<title type="text"> Iron Man2</title>
+<releaseyear type="date">2008</releaseyear>
+<role type="text" type="text">Iron Man</role>
+<title type="text">Sherlock Holmes: A Game of Shadow</title>
+<releaseyear type="date">2011</releaseyear>
+<role type="text">Sherlock Holmes</role>
+<title type="text">Sherlock Holmes</title>
+<role type="text">Sherlock Holmes</role>
+<releaseyear type="date">2009</releaseyear>
+</films>
+</actor>
+<actor>
+<name type=“text”>Chris Hemsworth</name>
+<dob type=“date”>August 11, 1983</dob>
+<height type=“text”>6’4”</height>
+<films>
+<title type=“text”>The Avengers</title>
+<releaseyear type=“date”>2012</releaseyear>
+<role type="text" >Thor</role>
+<title type="text">Thor=</title>
+<releaseyear type=“date">2011</releaseyeartype>
+<roletype="text"Thor</role>
+</actor>
+</films>
+<actor>
+<name type=“text”>Mark Ruffalo</name>
+<dob type=“date”>November 22, 1967</dob>
+<height type=“text”>5’8”</height>
+<films>
+<title type="text">The Avengers</title>
+<releaseyear=“date”>2012</releaseyear>
+<role type="text">Hulk</role>
+</films>
+</actor>
+<actor>
+<name type=“text”>Jeremy Renner</name>
+<dob type=“date”>January 7,1971</dob>
+<height type=“text”>5'9"</height>
+<films>
+<title type="text">Mission Impossible:Ghost Protocol</title>
+<releaseyear type=“date”>2011</releaseyear>
+<role type="text">Brandt</role>
+</actor>
+</actorprofile>
